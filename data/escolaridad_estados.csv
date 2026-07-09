@@ -1,0 +1,609 @@
+estado,año,escolaridad_promedio
+Aguascalientes,2005,9.23
+Aguascalientes,2006,9.23
+Aguascalientes,2007,9.23
+Aguascalientes,2008,9.23
+Aguascalientes,2009,9.23
+Aguascalientes,2010,9.23
+Aguascalientes,2011,9.33
+Aguascalientes,2012,9.43
+Aguascalientes,2013,9.53
+Aguascalientes,2014,9.63
+Aguascalientes,2015,9.73
+Aguascalientes,2016,9.85
+Aguascalientes,2017,9.98
+Aguascalientes,2018,10.1
+Aguascalientes,2019,10.23
+Aguascalientes,2020,10.35
+Aguascalientes,2021,10.35
+Aguascalientes,2022,10.35
+Aguascalientes,2023,10.35
+Baja California,2005,9.26
+Baja California,2006,9.26
+Baja California,2007,9.26
+Baja California,2008,9.26
+Baja California,2009,9.26
+Baja California,2010,9.26
+Baja California,2011,9.36
+Baja California,2012,9.46
+Baja California,2013,9.56
+Baja California,2014,9.66
+Baja California,2015,9.76
+Baja California,2016,9.85
+Baja California,2017,9.94
+Baja California,2018,10.02
+Baja California,2019,10.11
+Baja California,2020,10.2
+Baja California,2021,10.2
+Baja California,2022,10.2
+Baja California,2023,10.2
+Baja California Sur,2005,9.4
+Baja California Sur,2006,9.4
+Baja California Sur,2007,9.4
+Baja California Sur,2008,9.4
+Baja California Sur,2009,9.4
+Baja California Sur,2010,9.4
+Baja California Sur,2011,9.5
+Baja California Sur,2012,9.6
+Baja California Sur,2013,9.71
+Baja California Sur,2014,9.81
+Baja California Sur,2015,9.91
+Baja California Sur,2016,10.0
+Baja California Sur,2017,10.08
+Baja California Sur,2018,10.17
+Baja California Sur,2019,10.25
+Baja California Sur,2020,10.34
+Baja California Sur,2021,10.34
+Baja California Sur,2022,10.34
+Baja California Sur,2023,10.34
+Campeche,2005,8.51
+Campeche,2006,8.51
+Campeche,2007,8.51
+Campeche,2008,8.51
+Campeche,2009,8.51
+Campeche,2010,8.51
+Campeche,2011,8.64
+Campeche,2012,8.76
+Campeche,2013,8.89
+Campeche,2014,9.01
+Campeche,2015,9.14
+Campeche,2016,9.24
+Campeche,2017,9.34
+Campeche,2018,9.43
+Campeche,2019,9.53
+Campeche,2020,9.63
+Campeche,2021,9.63
+Campeche,2022,9.63
+Campeche,2023,9.63
+Coahuila de Zaragoza,2005,9.47
+Coahuila de Zaragoza,2006,9.47
+Coahuila de Zaragoza,2007,9.47
+Coahuila de Zaragoza,2008,9.47
+Coahuila de Zaragoza,2009,9.47
+Coahuila de Zaragoza,2010,9.47
+Coahuila de Zaragoza,2011,9.56
+Coahuila de Zaragoza,2012,9.64
+Coahuila de Zaragoza,2013,9.73
+Coahuila de Zaragoza,2014,9.81
+Coahuila de Zaragoza,2015,9.9
+Coahuila de Zaragoza,2016,10.01
+Coahuila de Zaragoza,2017,10.11
+Coahuila de Zaragoza,2018,10.22
+Coahuila de Zaragoza,2019,10.32
+Coahuila de Zaragoza,2020,10.43
+Coahuila de Zaragoza,2021,10.43
+Coahuila de Zaragoza,2022,10.43
+Coahuila de Zaragoza,2023,10.43
+Colima,2005,8.95
+Colima,2006,8.95
+Colima,2007,8.95
+Colima,2008,8.95
+Colima,2009,8.95
+Colima,2010,8.95
+Colima,2011,9.07
+Colima,2012,9.18
+Colima,2013,9.3
+Colima,2014,9.41
+Colima,2015,9.53
+Colima,2016,9.63
+Colima,2017,9.74
+Colima,2018,9.84
+Colima,2019,9.95
+Colima,2020,10.05
+Colima,2021,10.05
+Colima,2022,10.05
+Colima,2023,10.05
+Chiapas,2005,6.67
+Chiapas,2006,6.67
+Chiapas,2007,6.67
+Chiapas,2008,6.67
+Chiapas,2009,6.67
+Chiapas,2010,6.67
+Chiapas,2011,6.79
+Chiapas,2012,6.92
+Chiapas,2013,7.04
+Chiapas,2014,7.17
+Chiapas,2015,7.29
+Chiapas,2016,7.39
+Chiapas,2017,7.49
+Chiapas,2018,7.58
+Chiapas,2019,7.68
+Chiapas,2020,7.78
+Chiapas,2021,7.78
+Chiapas,2022,7.78
+Chiapas,2023,7.78
+Chihuahua,2005,8.82
+Chihuahua,2006,8.82
+Chihuahua,2007,8.82
+Chihuahua,2008,8.82
+Chihuahua,2009,8.82
+Chihuahua,2010,8.82
+Chihuahua,2011,8.95
+Chihuahua,2012,9.08
+Chihuahua,2013,9.21
+Chihuahua,2014,9.34
+Chihuahua,2015,9.47
+Chihuahua,2016,9.58
+Chihuahua,2017,9.68
+Chihuahua,2018,9.79
+Chihuahua,2019,9.89
+Chihuahua,2020,10.0
+Chihuahua,2021,10.0
+Chihuahua,2022,10.0
+Chihuahua,2023,10.0
+Ciudad de México,2005,10.54
+Ciudad de México,2006,10.54
+Ciudad de México,2007,10.54
+Ciudad de México,2008,10.54
+Ciudad de México,2009,10.54
+Ciudad de México,2010,10.54
+Ciudad de México,2011,10.66
+Ciudad de México,2012,10.77
+Ciudad de México,2013,10.89
+Ciudad de México,2014,11.0
+Ciudad de México,2015,11.12
+Ciudad de México,2016,11.19
+Ciudad de México,2017,11.26
+Ciudad de México,2018,11.34
+Ciudad de México,2019,11.41
+Ciudad de México,2020,11.48
+Ciudad de México,2021,11.48
+Ciudad de México,2022,11.48
+Ciudad de México,2023,11.48
+Durango,2005,8.58
+Durango,2006,8.58
+Durango,2007,8.58
+Durango,2008,8.58
+Durango,2009,8.58
+Durango,2010,8.58
+Durango,2011,8.69
+Durango,2012,8.81
+Durango,2013,8.92
+Durango,2014,9.04
+Durango,2015,9.15
+Durango,2016,9.27
+Durango,2017,9.39
+Durango,2018,9.51
+Durango,2019,9.63
+Durango,2020,9.75
+Durango,2021,9.75
+Durango,2022,9.75
+Durango,2023,9.75
+Guanajuato,2005,7.73
+Guanajuato,2006,7.73
+Guanajuato,2007,7.73
+Guanajuato,2008,7.73
+Guanajuato,2009,7.73
+Guanajuato,2010,7.73
+Guanajuato,2011,7.86
+Guanajuato,2012,7.99
+Guanajuato,2013,8.12
+Guanajuato,2014,8.25
+Guanajuato,2015,8.38
+Guanajuato,2016,8.51
+Guanajuato,2017,8.64
+Guanajuato,2018,8.78
+Guanajuato,2019,8.91
+Guanajuato,2020,9.04
+Guanajuato,2021,9.04
+Guanajuato,2022,9.04
+Guanajuato,2023,9.04
+Guerrero,2005,7.27
+Guerrero,2006,7.27
+Guerrero,2007,7.27
+Guerrero,2008,7.27
+Guerrero,2009,7.27
+Guerrero,2010,7.27
+Guerrero,2011,7.38
+Guerrero,2012,7.48
+Guerrero,2013,7.59
+Guerrero,2014,7.69
+Guerrero,2015,7.8
+Guerrero,2016,7.91
+Guerrero,2017,8.03
+Guerrero,2018,8.14
+Guerrero,2019,8.26
+Guerrero,2020,8.37
+Guerrero,2021,8.37
+Guerrero,2022,8.37
+Guerrero,2023,8.37
+Hidalgo,2005,8.1
+Hidalgo,2006,8.1
+Hidalgo,2007,8.1
+Hidalgo,2008,8.1
+Hidalgo,2009,8.1
+Hidalgo,2010,8.1
+Hidalgo,2011,8.22
+Hidalgo,2012,8.35
+Hidalgo,2013,8.47
+Hidalgo,2014,8.6
+Hidalgo,2015,8.72
+Hidalgo,2016,8.85
+Hidalgo,2017,8.98
+Hidalgo,2018,9.11
+Hidalgo,2019,9.24
+Hidalgo,2020,9.37
+Hidalgo,2021,9.37
+Hidalgo,2022,9.37
+Hidalgo,2023,9.37
+Jalisco,2005,8.78
+Jalisco,2006,8.78
+Jalisco,2007,8.78
+Jalisco,2008,8.78
+Jalisco,2009,8.78
+Jalisco,2010,8.78
+Jalisco,2011,8.87
+Jalisco,2012,8.97
+Jalisco,2013,9.06
+Jalisco,2014,9.16
+Jalisco,2015,9.25
+Jalisco,2016,9.38
+Jalisco,2017,9.51
+Jalisco,2018,9.64
+Jalisco,2019,9.77
+Jalisco,2020,9.9
+Jalisco,2021,9.9
+Jalisco,2022,9.9
+Jalisco,2023,9.9
+México,2005,9.1
+México,2006,9.1
+México,2007,9.1
+México,2008,9.1
+México,2009,9.1
+México,2010,9.1
+México,2011,9.19
+México,2012,9.27
+México,2013,9.36
+México,2014,9.44
+México,2015,9.53
+México,2016,9.64
+México,2017,9.75
+México,2018,9.86
+México,2019,9.97
+México,2020,10.08
+México,2021,10.08
+México,2022,10.08
+México,2023,10.08
+Michoacán de Ocampo,2005,7.42
+Michoacán de Ocampo,2006,7.42
+Michoacán de Ocampo,2007,7.42
+Michoacán de Ocampo,2008,7.42
+Michoacán de Ocampo,2009,7.42
+Michoacán de Ocampo,2010,7.42
+Michoacán de Ocampo,2011,7.52
+Michoacán de Ocampo,2012,7.62
+Michoacán de Ocampo,2013,7.73
+Michoacán de Ocampo,2014,7.83
+Michoacán de Ocampo,2015,7.93
+Michoacán de Ocampo,2016,8.06
+Michoacán de Ocampo,2017,8.2
+Michoacán de Ocampo,2018,8.33
+Michoacán de Ocampo,2019,8.47
+Michoacán de Ocampo,2020,8.6
+Michoacán de Ocampo,2021,8.6
+Michoacán de Ocampo,2022,8.6
+Michoacán de Ocampo,2023,8.6
+Morelos,2005,8.9
+Morelos,2006,8.9
+Morelos,2007,8.9
+Morelos,2008,8.9
+Morelos,2009,8.9
+Morelos,2010,8.9
+Morelos,2011,8.98
+Morelos,2012,9.06
+Morelos,2013,9.14
+Morelos,2014,9.22
+Morelos,2015,9.3
+Morelos,2016,9.41
+Morelos,2017,9.52
+Morelos,2018,9.62
+Morelos,2019,9.73
+Morelos,2020,9.84
+Morelos,2021,9.84
+Morelos,2022,9.84
+Morelos,2023,9.84
+Nayarit,2005,8.61
+Nayarit,2006,8.61
+Nayarit,2007,8.61
+Nayarit,2008,8.61
+Nayarit,2009,8.61
+Nayarit,2010,8.61
+Nayarit,2011,8.72
+Nayarit,2012,8.83
+Nayarit,2013,8.94
+Nayarit,2014,9.05
+Nayarit,2015,9.16
+Nayarit,2016,9.27
+Nayarit,2017,9.39
+Nayarit,2018,9.5
+Nayarit,2019,9.62
+Nayarit,2020,9.73
+Nayarit,2021,9.73
+Nayarit,2022,9.73
+Nayarit,2023,9.73
+Nuevo León,2005,9.81
+Nuevo León,2006,9.81
+Nuevo León,2007,9.81
+Nuevo León,2008,9.81
+Nuevo León,2009,9.81
+Nuevo León,2010,9.81
+Nuevo León,2011,9.9
+Nuevo León,2012,9.99
+Nuevo León,2013,10.09
+Nuevo León,2014,10.18
+Nuevo León,2015,10.27
+Nuevo León,2016,10.36
+Nuevo León,2017,10.46
+Nuevo León,2018,10.55
+Nuevo León,2019,10.65
+Nuevo León,2020,10.74
+Nuevo León,2021,10.74
+Nuevo León,2022,10.74
+Nuevo León,2023,10.74
+Oaxaca,2005,6.94
+Oaxaca,2006,6.94
+Oaxaca,2007,6.94
+Oaxaca,2008,6.94
+Oaxaca,2009,6.94
+Oaxaca,2010,6.94
+Oaxaca,2011,7.06
+Oaxaca,2012,7.17
+Oaxaca,2013,7.29
+Oaxaca,2014,7.4
+Oaxaca,2015,7.52
+Oaxaca,2016,7.64
+Oaxaca,2017,7.76
+Oaxaca,2018,7.88
+Oaxaca,2019,8.0
+Oaxaca,2020,8.12
+Oaxaca,2021,8.12
+Oaxaca,2022,8.12
+Oaxaca,2023,8.12
+Puebla,2005,7.95
+Puebla,2006,7.95
+Puebla,2007,7.95
+Puebla,2008,7.95
+Puebla,2009,7.95
+Puebla,2010,7.95
+Puebla,2011,8.06
+Puebla,2012,8.17
+Puebla,2013,8.27
+Puebla,2014,8.38
+Puebla,2015,8.49
+Puebla,2016,8.62
+Puebla,2017,8.76
+Puebla,2018,8.89
+Puebla,2019,9.03
+Puebla,2020,9.16
+Puebla,2021,9.16
+Puebla,2022,9.16
+Puebla,2023,9.16
+Querétaro,2005,8.92
+Querétaro,2006,8.92
+Querétaro,2007,8.92
+Querétaro,2008,8.92
+Querétaro,2009,8.92
+Querétaro,2010,8.92
+Querétaro,2011,9.05
+Querétaro,2012,9.17
+Querétaro,2013,9.3
+Querétaro,2014,9.42
+Querétaro,2015,9.55
+Querétaro,2016,9.74
+Querétaro,2017,9.92
+Querétaro,2018,10.11
+Querétaro,2019,10.29
+Querétaro,2020,10.48
+Querétaro,2021,10.48
+Querétaro,2022,10.48
+Querétaro,2023,10.48
+Quintana Roo,2005,9.12
+Quintana Roo,2006,9.12
+Quintana Roo,2007,9.12
+Quintana Roo,2008,9.12
+Quintana Roo,2009,9.12
+Quintana Roo,2010,9.12
+Quintana Roo,2011,9.22
+Quintana Roo,2012,9.32
+Quintana Roo,2013,9.42
+Quintana Roo,2014,9.52
+Quintana Roo,2015,9.62
+Quintana Roo,2016,9.74
+Quintana Roo,2017,9.87
+Quintana Roo,2018,9.99
+Quintana Roo,2019,10.12
+Quintana Roo,2020,10.24
+Quintana Roo,2021,10.24
+Quintana Roo,2022,10.24
+Quintana Roo,2023,10.24
+San Luis Potosí,2005,8.26
+San Luis Potosí,2006,8.26
+San Luis Potosí,2007,8.26
+San Luis Potosí,2008,8.26
+San Luis Potosí,2009,8.26
+San Luis Potosí,2010,8.26
+San Luis Potosí,2011,8.37
+San Luis Potosí,2012,8.48
+San Luis Potosí,2013,8.6
+San Luis Potosí,2014,8.71
+San Luis Potosí,2015,8.82
+San Luis Potosí,2016,8.98
+San Luis Potosí,2017,9.14
+San Luis Potosí,2018,9.29
+San Luis Potosí,2019,9.45
+San Luis Potosí,2020,9.61
+San Luis Potosí,2021,9.61
+San Luis Potosí,2022,9.61
+San Luis Potosí,2023,9.61
+Sinaloa,2005,9.08
+Sinaloa,2006,9.08
+Sinaloa,2007,9.08
+Sinaloa,2008,9.08
+Sinaloa,2009,9.08
+Sinaloa,2010,9.08
+Sinaloa,2011,9.18
+Sinaloa,2012,9.28
+Sinaloa,2013,9.38
+Sinaloa,2014,9.48
+Sinaloa,2015,9.58
+Sinaloa,2016,9.71
+Sinaloa,2017,9.84
+Sinaloa,2018,9.96
+Sinaloa,2019,10.09
+Sinaloa,2020,10.22
+Sinaloa,2021,10.22
+Sinaloa,2022,10.22
+Sinaloa,2023,10.22
+Sonora,2005,9.42
+Sonora,2006,9.42
+Sonora,2007,9.42
+Sonora,2008,9.42
+Sonora,2009,9.42
+Sonora,2010,9.42
+Sonora,2011,9.54
+Sonora,2012,9.65
+Sonora,2013,9.77
+Sonora,2014,9.88
+Sonora,2015,10.0
+Sonora,2016,10.08
+Sonora,2017,10.16
+Sonora,2018,10.24
+Sonora,2019,10.32
+Sonora,2020,10.4
+Sonora,2021,10.4
+Sonora,2022,10.4
+Sonora,2023,10.4
+Tabasco,2005,8.64
+Tabasco,2006,8.64
+Tabasco,2007,8.64
+Tabasco,2008,8.64
+Tabasco,2009,8.64
+Tabasco,2010,8.64
+Tabasco,2011,8.77
+Tabasco,2012,8.91
+Tabasco,2013,9.04
+Tabasco,2014,9.18
+Tabasco,2015,9.31
+Tabasco,2016,9.39
+Tabasco,2017,9.46
+Tabasco,2018,9.54
+Tabasco,2019,9.61
+Tabasco,2020,9.69
+Tabasco,2021,9.69
+Tabasco,2022,9.69
+Tabasco,2023,9.69
+Tamaulipas,2005,9.12
+Tamaulipas,2006,9.12
+Tamaulipas,2007,9.12
+Tamaulipas,2008,9.12
+Tamaulipas,2009,9.12
+Tamaulipas,2010,9.12
+Tamaulipas,2011,9.2
+Tamaulipas,2012,9.28
+Tamaulipas,2013,9.35
+Tamaulipas,2014,9.43
+Tamaulipas,2015,9.51
+Tamaulipas,2016,9.63
+Tamaulipas,2017,9.74
+Tamaulipas,2018,9.86
+Tamaulipas,2019,9.97
+Tamaulipas,2020,10.09
+Tamaulipas,2021,10.09
+Tamaulipas,2022,10.09
+Tamaulipas,2023,10.09
+Tlaxcala,2005,8.78
+Tlaxcala,2006,8.78
+Tlaxcala,2007,8.78
+Tlaxcala,2008,8.78
+Tlaxcala,2009,8.78
+Tlaxcala,2010,8.78
+Tlaxcala,2011,8.88
+Tlaxcala,2012,8.98
+Tlaxcala,2013,9.07
+Tlaxcala,2014,9.17
+Tlaxcala,2015,9.27
+Tlaxcala,2016,9.38
+Tlaxcala,2017,9.49
+Tlaxcala,2018,9.61
+Tlaxcala,2019,9.72
+Tlaxcala,2020,9.83
+Tlaxcala,2021,9.83
+Tlaxcala,2022,9.83
+Tlaxcala,2023,9.83
+Veracruz de Ignacio de la Llave,2005,7.67
+Veracruz de Ignacio de la Llave,2006,7.67
+Veracruz de Ignacio de la Llave,2007,7.67
+Veracruz de Ignacio de la Llave,2008,7.67
+Veracruz de Ignacio de la Llave,2009,7.67
+Veracruz de Ignacio de la Llave,2010,7.67
+Veracruz de Ignacio de la Llave,2011,7.78
+Veracruz de Ignacio de la Llave,2012,7.88
+Veracruz de Ignacio de la Llave,2013,7.99
+Veracruz de Ignacio de la Llave,2014,8.09
+Veracruz de Ignacio de la Llave,2015,8.2
+Veracruz de Ignacio de la Llave,2016,8.31
+Veracruz de Ignacio de la Llave,2017,8.42
+Veracruz de Ignacio de la Llave,2018,8.53
+Veracruz de Ignacio de la Llave,2019,8.64
+Veracruz de Ignacio de la Llave,2020,8.75
+Veracruz de Ignacio de la Llave,2021,8.75
+Veracruz de Ignacio de la Llave,2022,8.75
+Veracruz de Ignacio de la Llave,2023,8.75
+Yucatán,2005,8.22
+Yucatán,2006,8.22
+Yucatán,2007,8.22
+Yucatán,2008,8.22
+Yucatán,2009,8.22
+Yucatán,2010,8.22
+Yucatán,2011,8.34
+Yucatán,2012,8.46
+Yucatán,2013,8.58
+Yucatán,2014,8.7
+Yucatán,2015,8.82
+Yucatán,2016,8.97
+Yucatán,2017,9.13
+Yucatán,2018,9.28
+Yucatán,2019,9.44
+Yucatán,2020,9.59
+Yucatán,2021,9.59
+Yucatán,2022,9.59
+Yucatán,2023,9.59
+Zacatecas,2005,7.9
+Zacatecas,2006,7.9
+Zacatecas,2007,7.9
+Zacatecas,2008,7.9
+Zacatecas,2009,7.9
+Zacatecas,2010,7.9
+Zacatecas,2011,8.05
+Zacatecas,2012,8.19
+Zacatecas,2013,8.34
+Zacatecas,2014,8.48
+Zacatecas,2015,8.63
+Zacatecas,2016,8.75
+Zacatecas,2017,8.88
+Zacatecas,2018,9.0
+Zacatecas,2019,9.13
+Zacatecas,2020,9.25
+Zacatecas,2021,9.25
+Zacatecas,2022,9.25
+Zacatecas,2023,9.25

@@ -1,0 +1,673 @@
+año,estado,remesas_mdd
+2003,Aguascalientes,260.27
+2004,Aguascalientes,314.83
+2005,Aguascalientes,322.59
+2006,Aguascalientes,379.39
+2007,Aguascalientes,381.71
+2008,Aguascalientes,346.0
+2009,Aguascalientes,293.05
+2010,Aguascalientes,303.4
+2011,Aguascalientes,316.32
+2012,Aguascalientes,345.23
+2013,Aguascalientes,316.8
+2014,Aguascalientes,334.54
+2015,Aguascalientes,357.1
+2016,Aguascalientes,405.7
+2017,Aguascalientes,444.72
+2018,Aguascalientes,486.17
+2019,Aguascalientes,517.59
+2020,Aguascalientes,556.63
+2021,Aguascalientes,710.99
+2022,Aguascalientes,860.16
+2023,Aguascalientes,938.87
+2003,Baja California,142.0
+2004,Baja California,165.03
+2005,Baja California,256.64
+2006,Baja California,302.06
+2007,Baja California,342.79
+2008,Baja California,348.16
+2009,Baja California,334.35
+2010,Baja California,359.18
+2011,Baja California,409.71
+2012,Baja California,482.63
+2013,Baja California,626.67
+2014,Baja California,629.9
+2015,Baja California,673.48
+2016,Baja California,683.56
+2017,Baja California,764.64
+2018,Baja California,875.12
+2019,Baja California,936.0
+2020,Baja California,1215.59
+2021,Baja California,1375.94
+2022,Baja California,1390.79
+2023,Baja California,1447.33
+2003,Baja California Sur,18.95
+2004,Baja California Sur,17.8
+2005,Baja California Sur,24.45
+2006,Baja California Sur,28.53
+2007,Baja California Sur,32.82
+2008,Baja California Sur,36.13
+2009,Baja California Sur,33.14
+2010,Baja California Sur,34.83
+2011,Baja California Sur,37.85
+2012,Baja California Sur,42.94
+2013,Baja California Sur,47.43
+2014,Baja California Sur,48.07
+2015,Baja California Sur,52.37
+2016,Baja California Sur,56.12
+2017,Baja California Sur,67.96
+2018,Baja California Sur,79.65
+2019,Baja California Sur,88.78
+2020,Baja California Sur,111.11
+2021,Baja California Sur,127.97
+2022,Baja California Sur,204.18
+2023,Baja California Sur,178.27
+2003,Campeche,51.61
+2004,Campeche,53.3
+2005,Campeche,65.73
+2006,Campeche,82.01
+2007,Campeche,82.38
+2008,Campeche,75.8
+2009,Campeche,57.97
+2010,Campeche,56.83
+2011,Campeche,59.7
+2012,Campeche,57.72
+2013,Campeche,56.93
+2014,Campeche,57.69
+2015,Campeche,58.16
+2016,Campeche,67.01
+2017,Campeche,77.44
+2018,Campeche,81.73
+2019,Campeche,91.22
+2020,Campeche,119.09
+2021,Campeche,150.91
+2022,Campeche,160.52
+2023,Campeche,173.7
+2003,Coahuila,139.83
+2004,Coahuila,180.04
+2005,Coahuila,240.76
+2006,Coahuila,275.33
+2007,Coahuila,300.33
+2008,Coahuila,289.93
+2009,Coahuila,243.15
+2010,Coahuila,241.57
+2011,Coahuila,255.03
+2012,Coahuila,294.32
+2013,Coahuila,338.88
+2014,Coahuila,404.93
+2015,Coahuila,411.92
+2016,Coahuila,430.93
+2017,Coahuila,535.43
+2018,Coahuila,605.67
+2019,Coahuila,657.47
+2020,Coahuila,734.53
+2021,Coahuila,924.6
+2022,Coahuila,1061.19
+2023,Coahuila,1051.84
+2003,Colima,103.74
+2004,Colima,134.35
+2005,Colima,165.08
+2006,Colima,183.1
+2007,Colima,204.31
+2008,Colima,192.29
+2009,Colima,171.14
+2010,Colima,177.05
+2011,Colima,189.82
+2012,Colima,186.97
+2013,Colima,190.11
+2014,Colima,223.87
+2015,Colima,234.78
+2016,Colima,257.96
+2017,Colima,311.52
+2018,Colima,331.04
+2019,Colima,311.94
+2020,Colima,359.39
+2021,Colima,444.47
+2022,Colima,467.83
+2023,Colima,479.48
+2003,Chiapas,435.13
+2004,Chiapas,587.55
+2005,Chiapas,765.34
+2006,Chiapas,940.84
+2007,Chiapas,943.96
+2008,Chiapas,844.68
+2009,Chiapas,633.11
+2010,Chiapas,593.0
+2011,Chiapas,614.24
+2012,Chiapas,594.35
+2013,Chiapas,520.48
+2014,Chiapas,519.68
+2015,Chiapas,593.23
+2016,Chiapas,593.04
+2017,Chiapas,668.28
+2018,Chiapas,844.96
+2019,Chiapas,1034.75
+2020,Chiapas,1181.09
+2021,Chiapas,1935.53
+2022,Chiapas,3190.71
+2023,Chiapas,4367.29
+2003,Chihuahua,236.67
+2004,Chihuahua,279.42
+2005,Chihuahua,389.19
+2006,Chihuahua,473.93
+2007,Chihuahua,471.67
+2008,Chihuahua,494.47
+2009,Chihuahua,423.48
+2010,Chihuahua,410.7
+2011,Chihuahua,432.97
+2012,Chihuahua,484.51
+2013,Chihuahua,533.54
+2014,Chihuahua,565.72
+2015,Chihuahua,662.82
+2016,Chihuahua,715.53
+2017,Chihuahua,828.5
+2018,Chihuahua,995.33
+2019,Chihuahua,1147.36
+2020,Chihuahua,1284.1
+2021,Chihuahua,1597.45
+2022,Chihuahua,1625.93
+2023,Chihuahua,1591.88
+2003,Ciudad de México,814.76
+2004,Ciudad de México,921.67
+2005,Ciudad de México,1312.65
+2006,Ciudad de México,1490.39
+2007,Ciudad de México,1084.38
+2008,Ciudad de México,1128.68
+2009,Ciudad de México,1002.86
+2010,Ciudad de México,1031.48
+2011,Ciudad de México,1189.58
+2012,Ciudad de México,1051.48
+2013,Ciudad de México,1444.92
+2014,Ciudad de México,1558.8
+2015,Ciudad de México,1094.2
+2016,Ciudad de México,1435.33
+2017,Ciudad de México,1330.21
+2018,Ciudad de México,1466.62
+2019,Ciudad de México,1761.61
+2020,Ciudad de México,2194.25
+2021,Ciudad de México,3000.28
+2022,Ciudad de México,3184.2
+2023,Ciudad de México,3867.94
+2003,Durango,262.49
+2004,Durango,329.67
+2005,Durango,384.3
+2006,Durango,428.5
+2007,Durango,464.13
+2008,Durango,460.36
+2009,Durango,389.17
+2010,Durango,391.32
+2011,Durango,430.22
+2012,Durango,447.42
+2013,Durango,475.87
+2014,Durango,507.79
+2015,Durango,610.44
+2016,Durango,621.16
+2017,Durango,736.76
+2018,Durango,833.78
+2019,Durango,903.9
+2020,Durango,987.22
+2021,Durango,1272.64
+2022,Durango,1361.77
+2023,Durango,1391.04
+2003,Estado de México,1106.46
+2004,Estado de México,1445.79
+2005,Estado de México,1764.88
+2006,Estado de México,2079.15
+2007,Estado de México,2220.64
+2008,Estado de México,2152.14
+2009,Estado de México,1766.03
+2010,Estado de México,1690.43
+2011,Estado de México,1712.49
+2012,Estado de México,1622.89
+2013,Estado de México,1485.73
+2014,Estado de México,1512.02
+2015,Estado de México,1602.5
+2016,Estado de México,1650.22
+2017,Estado de México,1814.48
+2018,Estado de México,1967.91
+2019,Estado de México,2109.42
+2020,Estado de México,2495.26
+2021,Estado de México,3216.04
+2022,Estado de México,3554.6
+2023,Estado de México,4353.76
+2003,Guanajuato,1407.46
+2004,Guanajuato,1727.99
+2005,Guanajuato,1904.76
+2006,Guanajuato,2311.2
+2007,Guanajuato,2447.09
+2008,Guanajuato,2413.75
+2009,Guanajuato,2019.55
+2010,Guanajuato,2045.24
+2011,Guanajuato,2226.19
+2012,Guanajuato,2219.07
+2013,Guanajuato,2080.27
+2014,Guanajuato,2162.0
+2015,Guanajuato,2257.76
+2016,Guanajuato,2459.62
+2017,Guanajuato,2806.23
+2018,Guanajuato,3108.65
+2019,Guanajuato,3388.21
+2020,Guanajuato,3552.55
+2021,Guanajuato,4380.32
+2022,Guanajuato,5053.89
+2023,Guanajuato,5414.47
+2003,Guerrero,877.45
+2004,Guerrero,1018.35
+2005,Guerrero,1174.61
+2006,Guerrero,1455.72
+2007,Guerrero,1525.81
+2008,Guerrero,1494.66
+2009,Guerrero,1246.35
+2010,Guerrero,1240.3
+2011,Guerrero,1303.5
+2012,Guerrero,1277.58
+2013,Guerrero,1250.03
+2014,Guerrero,1245.18
+2015,Guerrero,1313.13
+2016,Guerrero,1406.41
+2017,Guerrero,1535.04
+2018,Guerrero,1669.35
+2019,Guerrero,1804.77
+2020,Guerrero,2006.71
+2021,Guerrero,2682.05
+2022,Guerrero,2990.07
+2023,Guerrero,3181.97
+2003,Hidalgo,608.45
+2004,Hidalgo,725.58
+2005,Hidalgo,814.98
+2006,Hidalgo,982.85
+2007,Hidalgo,1118.92
+2008,Hidalgo,1000.8
+2009,Hidalgo,780.93
+2010,Hidalgo,738.6
+2011,Hidalgo,787.59
+2012,Hidalgo,748.72
+2013,Hidalgo,653.47
+2014,Hidalgo,744.62
+2015,Hidalgo,748.3
+2016,Hidalgo,785.21
+2017,Hidalgo,858.92
+2018,Hidalgo,932.48
+2019,Hidalgo,988.84
+2020,Hidalgo,1057.0
+2021,Hidalgo,1325.4
+2022,Hidalgo,1692.52
+2023,Hidalgo,1754.78
+2003,Jalisco,1335.07
+2004,Jalisco,1462.23
+2005,Jalisco,1695.74
+2006,Jalisco,1975.48
+2007,Jalisco,2044.46
+2008,Jalisco,1993.57
+2009,Jalisco,1760.2
+2010,Jalisco,1812.19
+2011,Jalisco,1957.65
+2012,Jalisco,1954.62
+2013,Jalisco,1818.2
+2014,Jalisco,2020.28
+2015,Jalisco,2226.07
+2016,Jalisco,2581.18
+2017,Jalisco,2917.94
+2018,Jalisco,3348.12
+2019,Jalisco,3570.1
+2020,Jalisco,4229.7
+2021,Jalisco,5285.62
+2022,Jalisco,5389.01
+2023,Jalisco,5355.89
+2003,Michoacán,1787.47
+2004,Michoacán,2281.4
+2005,Michoacán,2442.4
+2006,Michoacán,2503.69
+2007,Michoacán,2494.18
+2008,Michoacán,2549.94
+2009,Michoacán,2214.13
+2010,Michoacán,2213.74
+2011,Michoacán,2318.3
+2012,Michoacán,2292.8
+2013,Michoacán,2124.3
+2014,Michoacán,2320.11
+2015,Michoacán,2550.93
+2016,Michoacán,2821.46
+2017,Michoacán,3123.36
+2018,Michoacán,3503.31
+2019,Michoacán,3718.83
+2020,Michoacán,4185.99
+2021,Michoacán,5094.21
+2022,Michoacán,5340.89
+2023,Michoacán,5409.58
+2003,Morelos,373.16
+2004,Morelos,433.18
+2005,Morelos,505.15
+2006,Morelos,588.0
+2007,Morelos,651.01
+2008,Morelos,648.29
+2009,Morelos,569.14
+2010,Morelos,572.77
+2011,Morelos,605.96
+2012,Morelos,582.48
+2013,Morelos,533.45
+2014,Morelos,545.38
+2015,Morelos,589.68
+2016,Morelos,597.77
+2017,Morelos,661.63
+2018,Morelos,695.9
+2019,Morelos,729.61
+2020,Morelos,782.07
+2021,Morelos,1029.71
+2022,Morelos,1111.14
+2023,Morelos,1149.07
+2003,Nayarit,227.53
+2004,Nayarit,262.4
+2005,Nayarit,302.69
+2006,Nayarit,348.24
+2007,Nayarit,384.56
+2008,Nayarit,392.09
+2009,Nayarit,354.7
+2010,Nayarit,348.28
+2011,Nayarit,368.0
+2012,Nayarit,352.39
+2013,Nayarit,332.87
+2014,Nayarit,373.71
+2015,Nayarit,402.34
+2016,Nayarit,448.36
+2017,Nayarit,508.46
+2018,Nayarit,561.29
+2019,Nayarit,599.4
+2020,Nayarit,694.29
+2021,Nayarit,870.45
+2022,Nayarit,868.45
+2023,Nayarit,874.83
+2003,Nuevo León,189.17
+2004,Nuevo León,295.85
+2005,Nuevo León,283.98
+2006,Nuevo León,342.55
+2007,Nuevo León,335.07
+2008,Nuevo León,337.21
+2009,Nuevo León,304.23
+2010,Nuevo León,293.15
+2011,Nuevo León,319.01
+2012,Nuevo León,352.91
+2013,Nuevo León,611.73
+2014,Nuevo León,629.57
+2015,Nuevo León,653.89
+2016,Nuevo León,664.18
+2017,Nuevo León,883.68
+2018,Nuevo León,951.66
+2019,Nuevo León,975.3
+2020,Nuevo León,1044.53
+2021,Nuevo León,1330.26
+2022,Nuevo León,1454.55
+2023,Nuevo León,1471.71
+2003,Oaxaca,787.12
+2004,Oaxaca,948.86
+2005,Oaxaca,1080.25
+2006,Oaxaca,1360.18
+2007,Oaxaca,1555.31
+2008,Oaxaca,1585.4
+2009,Oaxaca,1348.24
+2010,Oaxaca,1338.4
+2011,Oaxaca,1474.08
+2012,Oaxaca,1417.76
+2013,Oaxaca,1193.57
+2014,Oaxaca,1256.68
+2015,Oaxaca,1299.08
+2016,Oaxaca,1460.94
+2017,Oaxaca,1580.44
+2018,Oaxaca,1789.95
+2019,Oaxaca,1873.85
+2020,Oaxaca,1961.1
+2021,Oaxaca,2460.86
+2022,Oaxaca,2937.94
+2023,Oaxaca,3214.05
+2003,Puebla,853.88
+2004,Puebla,1009.06
+2005,Puebla,1182.06
+2006,Puebla,1482.57
+2007,Puebla,1657.63
+2008,Puebla,1682.39
+2009,Puebla,1427.54
+2010,Puebla,1415.46
+2011,Puebla,1517.59
+2012,Puebla,1456.31
+2013,Puebla,1384.08
+2014,Puebla,1384.83
+2015,Puebla,1373.48
+2016,Puebla,1501.13
+2017,Puebla,1661.81
+2018,Puebla,1756.87
+2019,Puebla,1830.7
+2020,Puebla,1933.62
+2021,Puebla,2184.61
+2022,Puebla,2773.77
+2023,Puebla,3144.92
+2003,Querétaro,283.34
+2004,Querétaro,353.4
+2005,Querétaro,405.92
+2006,Querétaro,484.08
+2007,Querétaro,486.67
+2008,Querétaro,454.52
+2009,Querétaro,373.99
+2010,Querétaro,365.97
+2011,Querétaro,395.83
+2012,Querétaro,392.89
+2013,Querétaro,425.96
+2014,Querétaro,410.16
+2015,Querétaro,469.91
+2016,Querétaro,534.74
+2017,Querétaro,607.59
+2018,Querétaro,675.25
+2019,Querétaro,725.95
+2020,Querétaro,824.4
+2021,Querétaro,1028.7
+2022,Querétaro,1203.48
+2023,Querétaro,1249.21
+2003,Quintana Roo,52.85
+2004,Quintana Roo,67.46
+2005,Quintana Roo,84.97
+2006,Quintana Roo,99.54
+2007,Quintana Roo,100.95
+2008,Quintana Roo,101.38
+2009,Quintana Roo,88.84
+2010,Quintana Roo,89.6
+2011,Quintana Roo,95.08
+2012,Quintana Roo,96.85
+2013,Quintana Roo,104.58
+2014,Quintana Roo,108.65
+2015,Quintana Roo,124.25
+2016,Quintana Roo,133.38
+2017,Quintana Roo,150.31
+2018,Quintana Roo,171.17
+2019,Quintana Roo,191.79
+2020,Quintana Roo,247.23
+2021,Quintana Roo,315.99
+2022,Quintana Roo,391.79
+2023,Quintana Roo,397.14
+2003,San Luis Potosí,403.5
+2004,San Luis Potosí,469.21
+2005,San Luis Potosí,562.31
+2006,San Luis Potosí,714.49
+2007,San Luis Potosí,797.72
+2008,San Luis Potosí,792.46
+2009,San Luis Potosí,650.8
+2010,San Luis Potosí,649.73
+2011,San Luis Potosí,723.71
+2012,San Luis Potosí,766.7
+2013,San Luis Potosí,732.96
+2014,San Luis Potosí,795.31
+2015,San Luis Potosí,869.76
+2016,San Luis Potosí,986.27
+2017,San Luis Potosí,1156.7
+2018,San Luis Potosí,1273.46
+2019,San Luis Potosí,1381.1
+2020,San Luis Potosí,1470.9
+2021,San Luis Potosí,1758.3
+2022,San Luis Potosí,2002.2
+2023,San Luis Potosí,2071.52
+2003,Sinaloa,320.51
+2004,Sinaloa,374.02
+2005,Sinaloa,451.13
+2006,Sinaloa,503.22
+2007,Sinaloa,535.58
+2008,Sinaloa,507.82
+2009,Sinaloa,474.25
+2010,Sinaloa,485.4
+2011,Sinaloa,528.52
+2012,Sinaloa,520.17
+2013,Sinaloa,521.03
+2014,Sinaloa,532.11
+2015,Sinaloa,540.97
+2016,Sinaloa,637.71
+2017,Sinaloa,739.55
+2018,Sinaloa,829.45
+2019,Sinaloa,946.91
+2020,Sinaloa,1071.93
+2021,Sinaloa,1186.79
+2022,Sinaloa,1216.99
+2023,Sinaloa,1113.21
+2003,Sonora,128.33
+2004,Sonora,170.42
+2005,Sonora,294.73
+2006,Sonora,325.97
+2007,Sonora,340.25
+2008,Sonora,323.81
+2009,Sonora,289.39
+2010,Sonora,301.43
+2011,Sonora,337.56
+2012,Sonora,339.12
+2013,Sonora,353.65
+2014,Sonora,348.45
+2015,Sonora,409.09
+2016,Sonora,422.62
+2017,Sonora,459.61
+2018,Sonora,545.48
+2019,Sonora,607.91
+2020,Sonora,728.62
+2021,Sonora,883.05
+2022,Sonora,910.54
+2023,Sonora,915.45
+2003,Tabasco,85.89
+2004,Tabasco,105.28
+2005,Tabasco,156.46
+2006,Tabasco,187.84
+2007,Tabasco,187.27
+2008,Tabasco,162.47
+2009,Tabasco,118.81
+2010,Tabasco,114.94
+2011,Tabasco,115.37
+2012,Tabasco,115.46
+2013,Tabasco,121.52
+2014,Tabasco,135.43
+2015,Tabasco,185.67
+2016,Tabasco,158.59
+2017,Tabasco,169.67
+2018,Tabasco,214.56
+2019,Tabasco,258.52
+2020,Tabasco,288.76
+2021,Tabasco,440.05
+2022,Tabasco,432.0
+2023,Tabasco,420.1
+2003,Tamaulipas,234.46
+2004,Tamaulipas,284.1
+2005,Tamaulipas,425.33
+2006,Tamaulipas,496.73
+2007,Tamaulipas,529.33
+2008,Tamaulipas,521.34
+2009,Tamaulipas,430.87
+2010,Tamaulipas,415.27
+2011,Tamaulipas,459.85
+2012,Tamaulipas,503.87
+2013,Tamaulipas,732.78
+2014,Tamaulipas,858.84
+2015,Tamaulipas,694.15
+2016,Tamaulipas,669.89
+2017,Tamaulipas,740.58
+2018,Tamaulipas,815.0
+2019,Tamaulipas,894.37
+2020,Tamaulipas,972.56
+2021,Tamaulipas,1151.76
+2022,Tamaulipas,1140.62
+2023,Tamaulipas,1100.86
+2003,Tlaxcala,149.19
+2004,Tlaxcala,185.09
+2005,Tlaxcala,221.1
+2006,Tlaxcala,270.68
+2007,Tlaxcala,311.07
+2008,Tlaxcala,317.89
+2009,Tlaxcala,268.76
+2010,Tlaxcala,266.85
+2011,Tlaxcala,283.53
+2012,Tlaxcala,262.82
+2013,Tlaxcala,225.1
+2014,Tlaxcala,226.33
+2015,Tlaxcala,305.66
+2016,Tlaxcala,239.85
+2017,Tlaxcala,257.11
+2018,Tlaxcala,263.69
+2019,Tlaxcala,263.73
+2020,Tlaxcala,252.4
+2021,Tlaxcala,324.34
+2022,Tlaxcala,387.86
+2023,Tlaxcala,414.2
+2003,Veracruz,999.18
+2004,Veracruz,1168.05
+2005,Veracruz,1373.48
+2006,Veracruz,1680.78
+2007,Veracruz,1819.77
+2008,Veracruz,1685.21
+2009,Veracruz,1346.08
+2010,Veracruz,1277.41
+2011,Veracruz,1314.59
+2012,Veracruz,1220.36
+2013,Veracruz,1065.77
+2014,Veracruz,1083.44
+2015,Veracruz,1091.37
+2016,Veracruz,1155.79
+2017,Veracruz,1324.26
+2018,Veracruz,1425.5
+2019,Veracruz,1553.1
+2020,Veracruz,1667.44
+2021,Veracruz,2079.43
+2022,Veracruz,2367.44
+2023,Veracruz,2573.81
+2003,Yucatán,60.41
+2004,Yucatán,75.75
+2005,Yucatán,94.14
+2006,Yucatán,122.08
+2007,Yucatán,140.13
+2008,Yucatán,141.72
+2009,Yucatán,114.15
+2010,Yucatán,116.33
+2011,Yucatán,121.65
+2012,Yucatán,123.71
+2013,Yucatán,130.06
+2014,Yucatán,133.58
+2015,Yucatán,143.53
+2016,Yucatán,146.44
+2017,Yucatán,184.62
+2018,Yucatán,206.96
+2019,Yucatán,227.52
+2020,Yucatán,251.74
+2021,Yucatán,341.89
+2022,Yucatán,396.64
+2023,Yucatán,434.26
+2003,Zacatecas,402.37
+2004,Zacatecas,484.61
+2005,Zacatecas,540.48
+2006,Zacatecas,667.72
+2007,Zacatecas,704.02
+2008,Zacatecas,709.84
+2009,Zacatecas,595.33
+2010,Zacatecas,600.48
+2011,Zacatecas,645.86
+2012,Zacatecas,679.2
+2013,Zacatecas,657.28
+2014,Zacatecas,724.19
+2015,Zacatecas,776.49
+2016,Zacatecas,903.05
+2017,Zacatecas,1035.46
+2018,Zacatecas,1129.05
+2019,Zacatecas,1159.93
+2020,Zacatecas,1242.13
+2021,Zacatecas,1611.97
+2022,Zacatecas,1744.12
+2023,Zacatecas,1816.25

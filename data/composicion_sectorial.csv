@@ -1,0 +1,673 @@
+estado,año,pct_secundario,pct_terciario
+Aguascalientes,2003,35.2,53.89
+Baja California,2003,45.58,45.34
+Baja California Sur,2003,21.93,68.67
+Campeche,2003,91.35,7.64
+Coahuila de Zaragoza,2003,56.8,34.38
+Colima,2003,28.59,60.69
+Chiapas,2003,28.79,58.82
+Chihuahua,2003,39.27,49.06
+Ciudad de México,2003,14.3,79.04
+Durango,2003,34.83,49.74
+Guanajuato,2003,37.33,52.35
+Guerrero,2003,16.21,73.22
+Hidalgo,2003,46.06,45.35
+Jalisco,2003,30.09,57.3
+México,2003,33.26,56.99
+Michoacán de Ocampo,2003,22.97,61.24
+Morelos,2003,30.33,59.91
+Nayarit,2003,19.73,66.93
+Nuevo León,2003,41.82,49.78
+Oaxaca,2003,37.74,53.13
+Puebla,2003,31.01,58.18
+Querétaro,2003,45.91,44.47
+Quintana Roo,2003,13.08,77.97
+San Luis Potosí,2003,36.77,53.49
+Sinaloa,2003,19.29,65.47
+Sonora,2003,41.38,46.23
+Tabasco,2003,55.96,38.19
+Tamaulipas,2003,42.94,48.42
+Tlaxcala,2003,33.3,55.96
+Veracruz de Ignacio de la Llave,2003,32.36,56.27
+Yucatán,2003,23.39,67.63
+Zacatecas,2003,22.48,57.74
+Aguascalientes,2004,35.47,53.7
+Baja California,2004,44.72,45.92
+Baja California Sur,2004,23.1,68.03
+Campeche,2004,90.95,7.96
+Coahuila de Zaragoza,2004,55.94,35.11
+Colima,2004,27.73,61.3
+Chiapas,2004,25.31,62.88
+Chihuahua,2004,39.31,48.85
+Ciudad de México,2004,14.49,78.84
+Durango,2004,35.9,49.11
+Guanajuato,2004,37.39,52.12
+Guerrero,2004,16.6,73.22
+Hidalgo,2004,49.04,42.81
+Jalisco,2004,29.44,57.49
+México,2004,33.23,57.2
+Michoacán de Ocampo,2004,24.27,60.73
+Morelos,2004,30.46,59.65
+Nayarit,2004,26.9,60.19
+Nuevo León,2004,41.33,50.42
+Oaxaca,2004,36.76,54.41
+Puebla,2004,31.05,58.19
+Querétaro,2004,46.27,44.3
+Quintana Roo,2004,13.7,77.56
+San Luis Potosí,2004,40.04,50.63
+Sinaloa,2004,21.26,62.67
+Sonora,2004,42.55,45.78
+Tabasco,2004,55.9,38.12
+Tamaulipas,2004,43.59,47.57
+Tlaxcala,2004,34.81,54.77
+Veracruz de Ignacio de la Llave,2004,33.55,55.69
+Yucatán,2004,22.7,68.04
+Zacatecas,2004,24.67,57.22
+Aguascalientes,2005,35.4,53.48
+Baja California,2005,44.06,46.38
+Baja California Sur,2005,21.34,69.14
+Campeche,2005,90.55,8.27
+Coahuila de Zaragoza,2005,55.46,35.58
+Colima,2005,25.98,63.47
+Chiapas,2005,25.13,63.59
+Chihuahua,2005,38.72,49.3
+Ciudad de México,2005,14.84,78.35
+Durango,2005,34.26,51.96
+Guanajuato,2005,37.17,52.74
+Guerrero,2005,17.3,72.23
+Hidalgo,2005,47.85,43.84
+Jalisco,2005,29.79,57.32
+México,2005,33.02,57.25
+Michoacán de Ocampo,2005,22.82,62.54
+Morelos,2005,32.24,57.98
+Nayarit,2005,28.64,58.67
+Nuevo León,2005,41.7,50.35
+Oaxaca,2005,35.88,55.51
+Puebla,2005,33.24,56.07
+Querétaro,2005,46.32,44.63
+Quintana Roo,2005,15.62,75.92
+San Luis Potosí,2005,40.52,50.15
+Sinaloa,2005,19.27,65.03
+Sonora,2005,43.06,44.8
+Tabasco,2005,57.67,36.9
+Tamaulipas,2005,44.77,46.83
+Tlaxcala,2005,31.77,57.78
+Veracruz de Ignacio de la Llave,2005,33.72,56.06
+Yucatán,2005,23.7,67.39
+Zacatecas,2005,25.01,57.51
+Aguascalientes,2006,37.33,51.5
+Baja California,2006,45.97,44.55
+Baja California Sur,2006,21.63,69.33
+Campeche,2006,89.95,8.76
+Coahuila de Zaragoza,2006,56.06,35.25
+Colima,2006,25.85,63.36
+Chiapas,2006,26.63,62.35
+Chihuahua,2006,39.12,48.77
+Ciudad de México,2006,15.47,77.78
+Durango,2006,32.73,52.41
+Guanajuato,2006,37.8,52.48
+Guerrero,2006,18.3,71.17
+Hidalgo,2006,45.15,46.06
+Jalisco,2006,29.95,57.11
+México,2006,32.74,57.36
+Michoacán de Ocampo,2006,23.25,61.49
+Morelos,2006,29.49,60.6
+Nayarit,2006,26.05,61.13
+Nuevo León,2006,42.17,49.99
+Oaxaca,2006,34.97,56.0
+Puebla,2006,33.44,55.99
+Querétaro,2006,46.03,44.98
+Quintana Roo,2006,15.68,75.81
+San Luis Potosí,2006,39.69,51.1
+Sinaloa,2006,18.92,64.36
+Sonora,2006,45.15,43.02
+Tabasco,2006,59.18,35.5
+Tamaulipas,2006,44.48,47.02
+Tlaxcala,2006,30.94,58.43
+Veracruz de Ignacio de la Llave,2006,34.03,55.83
+Yucatán,2006,24.55,66.49
+Zacatecas,2006,24.26,56.04
+Aguascalientes,2007,39.91,49.18
+Baja California,2007,45.73,45.07
+Baja California Sur,2007,22.13,68.87
+Campeche,2007,89.35,9.44
+Coahuila de Zaragoza,2007,56.19,35.35
+Colima,2007,28.17,61.58
+Chiapas,2007,24.37,64.3
+Chihuahua,2007,40.23,47.94
+Ciudad de México,2007,14.31,79.1
+Durango,2007,34.02,51.98
+Guanajuato,2007,36.31,53.86
+Guerrero,2007,20.03,69.85
+Hidalgo,2007,45.74,45.92
+Jalisco,2007,29.81,57.22
+México,2007,31.91,58.3
+Michoacán de Ocampo,2007,24.63,60.13
+Morelos,2007,30.41,59.69
+Nayarit,2007,24.78,61.75
+Nuevo León,2007,41.78,50.57
+Oaxaca,2007,34.58,56.3
+Puebla,2007,33.95,55.59
+Querétaro,2007,45.51,45.5
+Quintana Roo,2007,13.78,77.82
+San Luis Potosí,2007,38.95,52.02
+Sinaloa,2007,21.23,62.02
+Sonora,2007,44.38,43.28
+Tabasco,2007,59.89,35.29
+Tamaulipas,2007,44.8,46.56
+Tlaxcala,2007,31.77,58.27
+Veracruz de Ignacio de la Llave,2007,35.2,54.94
+Yucatán,2007,24.93,66.38
+Zacatecas,2007,25.91,55.81
+Aguascalientes,2008,37.89,50.83
+Baja California,2008,44.67,46.0
+Baja California Sur,2008,25.42,65.97
+Campeche,2008,87.91,10.67
+Coahuila de Zaragoza,2008,55.02,36.36
+Colima,2008,28.19,61.21
+Chiapas,2008,26.48,62.67
+Chihuahua,2008,41.48,46.91
+Ciudad de México,2008,13.56,79.7
+Durango,2008,36.0,50.25
+Guanajuato,2008,36.28,53.7
+Guerrero,2008,19.82,69.42
+Hidalgo,2008,45.59,45.99
+Jalisco,2008,29.35,57.3
+México,2008,31.44,58.8
+Michoacán de Ocampo,2008,24.35,59.71
+Morelos,2008,29.56,60.75
+Nayarit,2008,25.87,60.47
+Nuevo León,2008,40.8,51.44
+Oaxaca,2008,35.23,55.54
+Puebla,2008,33.38,55.92
+Querétaro,2008,43.72,47.35
+Quintana Roo,2008,13.81,77.63
+San Luis Potosí,2008,39.75,50.96
+Sinaloa,2008,22.75,61.01
+Sonora,2008,44.01,43.13
+Tabasco,2008,60.39,34.78
+Tamaulipas,2008,45.38,45.83
+Tlaxcala,2008,29.74,59.67
+Veracruz de Ignacio de la Llave,2008,33.96,55.84
+Yucatán,2008,24.58,66.73
+Zacatecas,2008,26.91,54.31
+Aguascalientes,2009,38.19,50.95
+Baja California,2009,41.41,49.06
+Baja California Sur,2009,25.85,65.58
+Campeche,2009,87.28,11.21
+Coahuila de Zaragoza,2009,49.41,42.06
+Colima,2009,28.52,62.13
+Chiapas,2009,26.49,62.54
+Chihuahua,2009,40.24,47.65
+Ciudad de México,2009,13.25,80.2
+Durango,2009,36.68,49.37
+Guanajuato,2009,35.57,54.51
+Guerrero,2009,20.62,69.37
+Hidalgo,2009,45.91,45.97
+Jalisco,2009,29.16,58.32
+México,2009,30.68,60.13
+Michoacán de Ocampo,2009,22.34,61.96
+Morelos,2009,30.9,59.54
+Nayarit,2009,24.14,62.58
+Nuevo León,2009,40.96,51.53
+Oaxaca,2009,36.27,54.63
+Puebla,2009,31.37,58.49
+Querétaro,2009,43.6,48.05
+Quintana Roo,2009,13.98,77.54
+San Luis Potosí,2009,39.92,51.26
+Sinaloa,2009,22.94,61.61
+Sonora,2009,42.13,45.19
+Tabasco,2009,63.27,32.33
+Tamaulipas,2009,44.58,46.78
+Tlaxcala,2009,29.95,60.05
+Veracruz de Ignacio de la Llave,2009,35.36,54.65
+Yucatán,2009,24.8,66.86
+Zacatecas,2009,31.99,50.61
+Aguascalientes,2010,39.92,49.49
+Baja California,2010,41.27,49.47
+Baja California Sur,2010,23.12,68.33
+Campeche,2010,86.36,12.05
+Coahuila de Zaragoza,2010,54.37,37.59
+Colima,2010,28.35,62.68
+Chiapas,2010,28.32,61.42
+Chihuahua,2010,38.56,49.31
+Ciudad de México,2010,11.84,82.06
+Durango,2010,35.97,51.13
+Guanajuato,2010,35.86,54.59
+Guerrero,2010,20.0,70.5
+Hidalgo,2010,43.66,48.49
+Jalisco,2010,29.22,58.43
+México,2010,31.33,59.84
+Michoacán de Ocampo,2010,23.3,62.17
+Morelos,2010,31.67,59.14
+Nayarit,2010,22.4,65.07
+Nuevo León,2010,41.22,51.65
+Oaxaca,2010,35.72,55.96
+Puebla,2010,32.98,57.47
+Querétaro,2010,44.44,47.32
+Quintana Roo,2010,11.49,80.18
+San Luis Potosí,2010,39.82,51.58
+Sinaloa,2010,23.48,62.69
+Sonora,2010,41.24,46.26
+Tabasco,2010,63.43,32.51
+Tamaulipas,2010,43.89,47.68
+Tlaxcala,2010,31.02,59.22
+Veracruz de Ignacio de la Llave,2010,34.76,55.8
+Yucatán,2010,24.61,67.26
+Zacatecas,2010,34.8,48.25
+Aguascalientes,2011,39.85,49.56
+Baja California,2011,40.3,50.7
+Baja California Sur,2011,23.24,68.64
+Campeche,2011,85.59,12.84
+Coahuila de Zaragoza,2011,54.94,36.98
+Colima,2011,30.15,61.03
+Chiapas,2011,27.45,62.69
+Chihuahua,2011,37.8,50.14
+Ciudad de México,2011,11.75,82.33
+Durango,2011,37.05,51.11
+Guanajuato,2011,36.3,54.47
+Guerrero,2011,19.34,71.41
+Hidalgo,2011,43.4,49.33
+Jalisco,2011,29.18,59.09
+México,2011,31.33,60.29
+Michoacán de Ocampo,2011,23.26,61.8
+Morelos,2011,31.58,59.59
+Nayarit,2011,22.39,64.5
+Nuevo León,2011,40.86,52.38
+Oaxaca,2011,36.44,55.53
+Puebla,2011,33.47,57.44
+Querétaro,2011,44.77,47.26
+Quintana Roo,2011,11.68,80.22
+San Luis Potosí,2011,41.24,50.67
+Sinaloa,2011,23.04,64.05
+Sonora,2011,44.02,44.5
+Tabasco,2011,63.48,32.67
+Tamaulipas,2011,42.15,49.89
+Tlaxcala,2011,31.63,60.13
+Veracruz de Ignacio de la Llave,2011,34.06,56.72
+Yucatán,2011,24.11,67.81
+Zacatecas,2011,35.76,49.91
+Aguascalientes,2012,40.48,49.0
+Baja California,2012,40.71,50.37
+Baja California Sur,2012,20.99,70.7
+Campeche,2012,84.82,13.59
+Coahuila de Zaragoza,2012,55.75,36.44
+Colima,2012,29.32,62.92
+Chiapas,2012,27.22,63.1
+Chihuahua,2012,40.35,48.55
+Ciudad de México,2012,11.92,82.34
+Durango,2012,36.71,50.96
+Guanajuato,2012,36.64,54.54
+Guerrero,2012,19.37,71.72
+Hidalgo,2012,43.18,49.31
+Jalisco,2012,29.12,58.76
+México,2012,30.6,60.95
+Michoacán de Ocampo,2012,23.03,62.04
+Morelos,2012,31.36,60.09
+Nayarit,2012,23.36,63.68
+Nuevo León,2012,40.35,53.17
+Oaxaca,2012,35.42,56.59
+Puebla,2012,34.52,56.32
+Querétaro,2012,44.69,47.35
+Quintana Roo,2012,10.61,81.42
+San Luis Potosí,2012,42.94,48.95
+Sinaloa,2012,20.2,65.74
+Sonora,2012,44.06,44.38
+Tabasco,2012,63.48,32.65
+Tamaulipas,2012,42.8,49.3
+Tlaxcala,2012,31.93,59.0
+Veracruz de Ignacio de la Llave,2012,34.89,56.11
+Yucatán,2012,24.48,67.73
+Zacatecas,2012,34.53,49.96
+Aguascalientes,2013,41.52,48.25
+Baja California,2013,40.23,50.73
+Baja California Sur,2013,20.61,71.15
+Campeche,2013,84.39,14.03
+Coahuila de Zaragoza,2013,54.91,37.17
+Colima,2013,28.89,63.58
+Chiapas,2013,24.17,65.68
+Chihuahua,2013,40.24,48.07
+Ciudad de México,2013,11.02,83.29
+Durango,2013,38.16,49.79
+Guanajuato,2013,38.31,52.69
+Guerrero,2013,20.8,70.96
+Hidalgo,2013,41.69,50.79
+Jalisco,2013,29.2,58.92
+México,2013,30.45,61.13
+Michoacán de Ocampo,2013,21.69,63.12
+Morelos,2013,31.45,59.77
+Nayarit,2013,23.25,64.59
+Nuevo León,2013,39.6,54.04
+Oaxaca,2013,36.57,55.45
+Puebla,2013,32.64,58.3
+Querétaro,2013,42.99,49.09
+Quintana Roo,2013,11.75,80.5
+San Luis Potosí,2013,42.37,49.13
+Sinaloa,2013,19.18,66.93
+Sonora,2013,44.47,44.64
+Tabasco,2013,62.37,33.87
+Tamaulipas,2013,42.06,50.3
+Tlaxcala,2013,30.65,60.62
+Veracruz de Ignacio de la Llave,2013,35.23,55.62
+Yucatán,2013,22.79,69.76
+Zacatecas,2013,31.37,51.96
+Aguascalientes,2014,44.31,45.37
+Baja California,2014,41.62,49.58
+Baja California Sur,2014,19.69,71.68
+Campeche,2014,84.03,14.26
+Coahuila de Zaragoza,2014,55.71,36.37
+Colima,2014,28.44,64.56
+Chiapas,2014,24.61,66.1
+Chihuahua,2014,40.84,47.38
+Ciudad de México,2014,10.64,83.76
+Durango,2014,39.4,48.69
+Guanajuato,2014,40.05,50.78
+Guerrero,2014,23.31,68.27
+Hidalgo,2014,42.22,50.57
+Jalisco,2014,29.44,58.1
+México,2014,29.62,62.35
+Michoacán de Ocampo,2014,21.7,62.56
+Morelos,2014,31.82,59.55
+Nayarit,2014,23.87,65.05
+Nuevo León,2014,39.93,53.7
+Oaxaca,2014,35.94,56.18
+Puebla,2014,33.24,57.88
+Querétaro,2014,43.12,48.84
+Quintana Roo,2014,12.78,79.57
+San Luis Potosí,2014,42.22,48.93
+Sinaloa,2014,18.5,67.77
+Sonora,2014,44.66,44.63
+Tabasco,2014,61.74,34.52
+Tamaulipas,2014,41.62,50.14
+Tlaxcala,2014,31.22,59.61
+Veracruz de Ignacio de la Llave,2014,34.25,56.59
+Yucatán,2014,23.33,69.21
+Zacatecas,2014,34.3,49.21
+Aguascalientes,2015,44.43,45.26
+Baja California,2015,42.81,48.36
+Baja California Sur,2015,21.26,69.95
+Campeche,2015,83.15,14.23
+Coahuila de Zaragoza,2015,54.74,37.43
+Colima,2015,29.32,63.75
+Chiapas,2015,22.72,67.27
+Chihuahua,2015,42.13,46.04
+Ciudad de México,2015,9.67,84.64
+Durango,2015,37.39,50.53
+Guanajuato,2015,40.93,49.86
+Guerrero,2015,20.61,71.24
+Hidalgo,2015,42.26,50.61
+Jalisco,2015,30.21,57.64
+México,2015,29.78,62.66
+Michoacán de Ocampo,2015,21.47,62.73
+Morelos,2015,31.51,59.83
+Nayarit,2015,21.72,66.98
+Nuevo León,2015,39.83,53.64
+Oaxaca,2015,34.6,57.46
+Puebla,2015,33.89,56.91
+Querétaro,2015,43.49,48.34
+Quintana Roo,2015,11.88,80.21
+San Luis Potosí,2015,43.15,48.03
+Sinaloa,2015,18.26,66.81
+Sonora,2015,45.47,43.54
+Tabasco,2015,57.65,37.95
+Tamaulipas,2015,41.96,50.04
+Tlaxcala,2015,32.75,57.83
+Veracruz de Ignacio de la Llave,2015,33.02,57.42
+Yucatán,2015,23.72,68.78
+Zacatecas,2015,33.49,49.75
+Aguascalientes,2016,44.29,45.53
+Baja California,2016,42.53,48.88
+Baja California Sur,2016,20.72,70.41
+Campeche,2016,83.08,14.23
+Coahuila de Zaragoza,2016,54.14,37.99
+Colima,2016,27.64,64.9
+Chiapas,2016,22.62,67.29
+Chihuahua,2016,42.3,46.47
+Ciudad de México,2016,9.73,84.59
+Durango,2016,36.2,51.53
+Guanajuato,2016,41.86,48.93
+Guerrero,2016,20.43,71.01
+Hidalgo,2016,40.59,52.33
+Jalisco,2016,29.55,58.54
+México,2016,29.1,63.29
+Michoacán de Ocampo,2016,20.39,62.34
+Morelos,2016,31.51,59.73
+Nayarit,2016,21.44,66.87
+Nuevo León,2016,38.53,54.77
+Oaxaca,2016,34.04,57.68
+Puebla,2016,33.95,56.98
+Querétaro,2016,42.55,49.32
+Quintana Roo,2016,11.81,80.16
+San Luis Potosí,2016,44.87,46.19
+Sinaloa,2016,18.89,66.01
+Sonora,2016,46.16,43.06
+Tabasco,2016,57.08,38.45
+Tamaulipas,2016,40.36,51.39
+Tlaxcala,2016,33.01,57.69
+Veracruz de Ignacio de la Llave,2016,31.99,58.48
+Yucatán,2016,24.89,67.74
+Zacatecas,2016,33.42,50.02
+Aguascalientes,2017,44.57,45.29
+Baja California,2017,42.84,48.55
+Baja California Sur,2017,21.2,70.16
+Campeche,2017,81.66,15.58
+Coahuila de Zaragoza,2017,54.86,37.35
+Colima,2017,28.96,63.81
+Chiapas,2017,21.0,68.91
+Chihuahua,2017,42.28,46.04
+Ciudad de México,2017,9.25,85.02
+Durango,2017,36.45,51.28
+Guanajuato,2017,41.82,48.96
+Guerrero,2017,19.01,72.39
+Hidalgo,2017,39.32,53.62
+Jalisco,2017,29.67,58.47
+México,2017,30.07,62.49
+Michoacán de Ocampo,2017,19.8,62.47
+Morelos,2017,31.96,59.32
+Nayarit,2017,20.27,68.0
+Nuevo León,2017,38.42,54.92
+Oaxaca,2017,26.44,64.74
+Puebla,2017,36.42,54.57
+Querétaro,2017,42.85,49.02
+Quintana Roo,2017,10.59,81.41
+San Luis Potosí,2017,46.63,44.34
+Sinaloa,2017,18.9,66.59
+Sonora,2017,45.63,43.17
+Tabasco,2017,55.26,39.95
+Tamaulipas,2017,39.36,52.5
+Tlaxcala,2017,34.59,56.29
+Veracruz de Ignacio de la Llave,2017,29.6,60.56
+Yucatán,2017,25.85,66.79
+Zacatecas,2017,33.41,50.44
+Aguascalientes,2018,44.44,45.57
+Baja California,2018,42.12,49.22
+Baja California Sur,2018,24.04,67.52
+Campeche,2018,80.89,16.33
+Coahuila de Zaragoza,2018,54.64,37.49
+Colima,2018,26.23,66.39
+Chiapas,2018,19.39,70.27
+Chihuahua,2018,41.14,47.11
+Ciudad de México,2018,8.92,85.31
+Durango,2018,36.64,51.31
+Guanajuato,2018,39.31,51.48
+Guerrero,2018,18.95,72.45
+Hidalgo,2018,37.05,55.63
+Jalisco,2018,28.67,59.41
+México,2018,29.32,63.5
+Michoacán de Ocampo,2018,18.88,63.53
+Morelos,2018,29.49,61.66
+Nayarit,2018,18.97,69.52
+Nuevo León,2018,39.91,53.34
+Oaxaca,2018,28.82,62.45
+Puebla,2018,35.56,55.52
+Querétaro,2018,42.59,49.26
+Quintana Roo,2018,10.66,81.42
+San Luis Potosí,2018,46.57,44.34
+Sinaloa,2018,19.8,65.41
+Sonora,2018,44.54,44.02
+Tabasco,2018,51.99,42.96
+Tamaulipas,2018,40.68,51.5
+Tlaxcala,2018,34.91,56.0
+Veracruz de Ignacio de la Llave,2018,29.17,60.78
+Yucatán,2018,25.31,67.02
+Zacatecas,2018,34.1,49.06
+Aguascalientes,2019,44.05,45.9
+Baja California,2019,43.18,48.03
+Baja California Sur,2019,20.47,70.9
+Campeche,2019,79.96,17.16
+Coahuila de Zaragoza,2019,53.76,38.25
+Colima,2019,30.29,62.64
+Chiapas,2019,17.08,72.24
+Chihuahua,2019,41.98,46.67
+Ciudad de México,2019,8.77,85.45
+Durango,2019,37.32,50.71
+Guanajuato,2019,37.99,52.74
+Guerrero,2019,18.44,72.97
+Hidalgo,2019,35.94,56.46
+Jalisco,2019,28.35,59.41
+México,2019,27.99,64.87
+Michoacán de Ocampo,2019,18.68,63.74
+Morelos,2019,28.5,62.65
+Nayarit,2019,18.69,69.01
+Nuevo León,2019,39.81,53.35
+Oaxaca,2019,25.61,65.22
+Puebla,2019,36.2,54.97
+Querétaro,2019,42.45,49.38
+Quintana Roo,2019,11.27,81.06
+San Luis Potosí,2019,44.71,46.19
+Sinaloa,2019,18.51,66.1
+Sonora,2019,44.62,43.76
+Tabasco,2019,49.18,45.63
+Tamaulipas,2019,42.05,50.24
+Tlaxcala,2019,34.62,56.22
+Veracruz de Ignacio de la Llave,2019,29.85,60.16
+Yucatán,2019,25.76,66.5
+Zacatecas,2019,32.25,51.54
+Aguascalientes,2020,44.02,45.87
+Baja California,2020,44.0,47.68
+Baja California Sur,2020,19.61,71.56
+Campeche,2020,80.31,17.38
+Coahuila de Zaragoza,2020,52.08,39.64
+Colima,2020,28.79,63.48
+Chiapas,2020,17.85,71.49
+Chihuahua,2020,41.79,46.8
+Ciudad de México,2020,8.59,85.85
+Durango,2020,36.9,50.72
+Guanajuato,2020,38.07,52.6
+Guerrero,2020,18.35,72.39
+Hidalgo,2020,34.07,57.96
+Jalisco,2020,28.25,59.41
+México,2020,27.64,65.37
+Michoacán de Ocampo,2020,19.24,62.69
+Morelos,2020,27.58,63.36
+Nayarit,2020,17.7,69.49
+Nuevo León,2020,38.83,54.72
+Oaxaca,2020,27.16,63.53
+Puebla,2020,34.08,56.88
+Querétaro,2020,40.78,50.95
+Quintana Roo,2020,11.43,81.79
+San Luis Potosí,2020,43.97,46.65
+Sinaloa,2020,18.62,66.01
+Sonora,2020,44.67,43.66
+Tabasco,2020,54.15,41.25
+Tamaulipas,2020,40.89,51.41
+Tlaxcala,2020,33.34,57.63
+Veracruz de Ignacio de la Llave,2020,28.69,60.75
+Yucatán,2020,25.11,67.07
+Zacatecas,2020,31.92,50.72
+Aguascalientes,2021,43.02,46.71
+Baja California,2021,43.65,47.85
+Baja California Sur,2021,16.48,73.78
+Campeche,2021,78.05,18.71
+Coahuila de Zaragoza,2021,54.44,37.29
+Colima,2021,23.42,68.12
+Chiapas,2021,18.11,71.24
+Chihuahua,2021,42.08,46.55
+Ciudad de México,2021,8.95,85.34
+Durango,2021,36.58,50.42
+Guanajuato,2021,38.4,51.92
+Guerrero,2021,16.87,73.74
+Hidalgo,2021,34.99,57.04
+Jalisco,2021,28.08,59.65
+México,2021,27.76,65.14
+Michoacán de Ocampo,2021,17.26,64.23
+Morelos,2021,28.54,62.4
+Nayarit,2021,19.95,67.84
+Nuevo León,2021,39.72,53.64
+Oaxaca,2021,29.85,61.18
+Puebla,2021,33.81,57.02
+Querétaro,2021,41.16,50.36
+Quintana Roo,2021,8.62,83.53
+San Luis Potosí,2021,42.98,47.19
+Sinaloa,2021,18.04,67.0
+Sonora,2021,44.38,43.82
+Tabasco,2021,58.26,37.17
+Tamaulipas,2021,40.94,51.47
+Tlaxcala,2021,33.98,56.86
+Veracruz de Ignacio de la Llave,2021,28.86,60.52
+Yucatán,2021,24.89,67.04
+Zacatecas,2021,32.88,49.99
+Aguascalientes,2022,41.73,48.04
+Baja California,2022,42.91,48.14
+Baja California Sur,2022,16.08,74.2
+Campeche,2022,77.49,19.39
+Coahuila de Zaragoza,2022,54.79,36.87
+Colima,2022,20.55,70.1
+Chiapas,2022,20.05,69.68
+Chihuahua,2022,43.01,45.33
+Ciudad de México,2022,9.67,84.37
+Durango,2022,35.76,51.12
+Guanajuato,2022,38.64,51.71
+Guerrero,2022,16.11,74.65
+Hidalgo,2022,37.98,54.25
+Jalisco,2022,28.76,58.86
+México,2022,27.18,65.79
+Michoacán de Ocampo,2022,17.19,64.6
+Morelos,2022,28.38,62.82
+Nayarit,2022,18.75,68.8
+Nuevo León,2022,39.84,53.36
+Oaxaca,2022,31.8,59.54
+Puebla,2022,34.34,56.68
+Querétaro,2022,41.39,50.08
+Quintana Roo,2022,8.86,82.85
+San Luis Potosí,2022,44.32,46.04
+Sinaloa,2022,18.32,66.64
+Sonora,2022,45.15,42.56
+Tabasco,2022,63.25,32.66
+Tamaulipas,2022,40.61,51.49
+Tlaxcala,2022,34.4,56.46
+Veracruz de Ignacio de la Llave,2022,27.88,61.51
+Yucatán,2022,24.38,67.46
+Zacatecas,2022,34.16,49.39
+Aguascalientes,2023,42.96,46.66
+Baja California,2023,43.41,47.47
+Baja California Sur,2023,15.78,74.54
+Campeche,2023,78.23,18.58
+Coahuila de Zaragoza,2023,52.67,38.58
+Colima,2023,21.71,69.56
+Chiapas,2023,18.95,70.65
+Chihuahua,2023,43.31,45.07
+Ciudad de México,2023,9.19,84.87
+Durango,2023,36.3,51.12
+Guanajuato,2023,37.95,52.38
+Guerrero,2023,15.84,75.04
+Hidalgo,2023,37.55,54.79
+Jalisco,2023,28.77,59.04
+México,2023,26.16,66.89
+Michoacán de Ocampo,2023,17.2,63.72
+Morelos,2023,27.73,63.6
+Nayarit,2023,18.39,69.38
+Nuevo León,2023,39.69,53.52
+Oaxaca,2023,33.86,58.03
+Puebla,2023,33.9,56.92
+Querétaro,2023,40.87,50.49
+Quintana Roo,2023,20.73,72.23
+San Luis Potosí,2023,46.84,43.66
+Sinaloa,2023,18.12,68.12
+Sonora,2023,45.73,42.13
+Tabasco,2023,62.85,33.19
+Tamaulipas,2023,39.31,52.97
+Tlaxcala,2023,33.74,57.07
+Veracruz de Ignacio de la Llave,2023,28.21,61.31
+Yucatán,2023,24.38,67.52
+Zacatecas,2023,35.94,49.25
