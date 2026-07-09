@@ -5,7 +5,7 @@ Modelo predictivo de Machine Learning para predecir el PIB per cápita por entid
 ## Quick Links
 [Presentación](https://canva.link/486t5iuvv8ko186)
 [Notebook Pipeline](https://github.com/ledtorres/Pipeline-de-predicci-n-del-PIB-per-c-pita-de-M-xico-2006-2023-/blob/main/notebooks/Pipeline_PIB_per_capita.ipynb)
-[Notebook Merge]()
+[Notebook Merge](https://github.com/ledtorres/Pipeline-de-predicci-n-del-PIB-per-c-pita-de-M-xico-2006-2023-/blob/main/notebooks/Merge_Dataset_Pipeline_PIB_per_capita.ipynb)
 [Dataset]()
 
 ## Key Insights
